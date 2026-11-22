@@ -1,3 +1,5 @@
+# ERD
+![foto](foto/databasebewijs5.png)
 # main
 ![foto](foto/databasebewijs1.png)
 # notities
