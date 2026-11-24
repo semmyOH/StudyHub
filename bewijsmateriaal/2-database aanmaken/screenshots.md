@@ -1,10 +1,10 @@
 # ERD
-![foto](foto/databasebewijs5.png)
+![foto](screenshots/databasebewijs5.png)
 # main
-![foto](foto/databasebewijs1.png)
+![foto](screenshots/databasebewijs1.png)
 # notities
-![foto](foto/databasebewijs2.png)
+![foto](screenshots/databasebewijs2.png)
 # studenten
-![foto](foto/databasebewijs3.png)
+![foto](screenshots/databasebewijs3.png)
 # taken
-![foto](foto/databasebewijs4.png)
+![foto](screenshots/databasebewijs4.png)
